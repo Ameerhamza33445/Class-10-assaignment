@@ -1,0 +1,85 @@
+.main {
+    background-color: #72bfdc;
+    width: 98%;
+    height: 580px;
+    margin: auto;
+}
+body {
+    background-color: #2bc2c4;
+    width: 98%;
+    height: 97px;
+    margin: auto;
+}
+
+.DIGITAL {
+    position: absolute;
+    top: 35%;
+    left: 40%;
+    transform: translate(-80%, -80%);
+    font-size: 80px;
+}
+
+.DESING {
+    position: absolute;
+    top: 50%;
+    left: 55%;
+    transform: translate(-80%, -80%);
+    font-size: 100px;
+}
+
+.STUDIO {
+    position: absolute;
+    top: 65%;
+    left: 70%;
+    transform: translate(-80%, -80%);
+    font-size: 80px;
+}
+.hader {
+    font-size: small;
+    padding: 15px;
+}
+
+.navbar ul li {
+    list-style-type: none;
+    margin: auto;
+    display: inline-block;
+}
+a {
+    color: #fff;
+    border: 2px solid#000;
+    border-radius: 20px;
+    text-decoration: none;
+    padding: 5px;
+    margin: auto;
+}
+
+a:hover {
+    color: white;
+    transition: 3s;
+    background-color: #055638;
+}
+.DESING {
+
+    font-family: 'Rubik Moonrocks', cursive;
+    font-size: 60px;
+}
+.logo {
+    width: 100px;
+    margin: 50px;
+    float: right;
+    margin-top: -70px;
+    margin-left: 140px;
+}
+
+.img1 {
+    margin-top: 150px;
+    margin-left: 125px;
+}
+.img2 {
+    margin-top: 50px;
+    margin-left: 125px;
+}
+.img3 {
+    margin-top: 50px;
+    margin-left: 125px;
+}
